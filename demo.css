@@ -1,0 +1,23 @@
+.example{
+    border-spacing: 0px;
+    background-color: #ffffff; 
+    padding: 20%;
+    width: 100%;
+    height: auto; 
+}
+tr{
+    text-align: center; 
+    background-color: #ffffff;
+}
+td{
+   cursor: default; 
+    text-align: center; 
+    background-color: #ffffff; 
+}
+a{ 
+   target: _blank;
+} 
+img{
+    width:100%;
+    height:auto;
+}
